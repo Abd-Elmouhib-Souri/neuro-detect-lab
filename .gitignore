@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+node_modules/
+dist/
+out/
+*.log
+.env
+backend/.env
+neuro-detect-lab-main/.env
