@@ -84,7 +84,7 @@ export default function HomePage() {
               <Brain className="h-5 w-5" />
             </div>
             <div>
-              <p className="font-display text-lg font-bold text-slate-950">NeuroDetect Lab</p>
+              <p className="font-display text-lg font-bold text-slate-950">MindCare AI</p>
               <p className="text-xs text-slate-500">Plateforme d'analyse IRM Alzheimer</p>
             </div>
           </Link>
@@ -124,7 +124,7 @@ export default function HomePage() {
               </h1>
 
               <p className="mt-6 max-w-2xl text-base leading-7 text-slate-600 sm:text-lg">
-                NeuroDetect Lab centralise l'import patient, l'historique des analyses et les rapports medecins dans
+                MindCare AI centralise l'import patient, l'historique des analyses et les rapports medecins dans
                 une experience plus lisible, scrollable et adaptee aux ecrans mobiles comme desktop.
               </p>
 
@@ -267,7 +267,7 @@ export default function HomePage() {
       </main>
 
       <footer className="border-t border-slate-200/80 bg-white/80 px-4 py-6 text-center text-sm text-slate-500 backdrop-blur sm:px-6 lg:px-8">
-        NeuroDetect Lab 2026. Interface medicale pour patients et medecins.
+        MindCare AI 2026. Interface medicale pour patients et medecins.
       </footer>
     </div>
   );

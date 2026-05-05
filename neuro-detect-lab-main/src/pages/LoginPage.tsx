@@ -47,7 +47,7 @@ const LoginPage = () => {
             <Brain className="h-6 w-6 text-primary" />
           </div>
           <h1 className="font-display text-3xl font-bold text-foreground">Connexion</h1>
-          <p className="mt-2 text-sm leading-6 text-muted-foreground">Entre tes identifiants pour acceder a ton espace NeuroDetect Lab.</p>
+          <p className="mt-2 text-sm leading-6 text-muted-foreground">Entre tes identifiants pour acceder a ton espace MindCare AI.</p>
         </div>
 
         <form onSubmit={handleSubmit} className="space-y-5">
