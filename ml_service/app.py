@@ -1,5 +1,5 @@
 """
-NeuroDetect Lab - ML Service
+MindCare AI - ML Service
 Analyse parallele de plusieurs modeles IA pour la detection de la maladie d'Alzheimer
 Le meilleur score est retenu automatiquement
 Port : 5001
@@ -308,7 +308,7 @@ def predict():
 
 
 if __name__ == "__main__":
-    print("\nNeuroDetect Lab - Service ML demarrage")
+    print("\nMindCare AI - Service ML demarrage")
     print("=" * 50)
     load_all_models()
     print("=" * 50)

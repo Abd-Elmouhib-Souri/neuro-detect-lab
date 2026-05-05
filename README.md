@@ -1,15 +1,15 @@
-# 🧠 NeuroDetect Lab - Alzheimer's Detection System
+# 🧠 MindCare AI - Alzheimer's Detection System
 ### *Integrated Academic Project - Full-Stack & AI Multi-Model Platform*
 
-Welcome to **NeuroDetect Lab**, a state-of-the-art medical decision support system designed to assist neurologists in the early detection and classification of Alzheimer's Disease using deep learning and multi-model parallel analysis.
+Welcome to **MindCare AI**, a state-of-the-art medical decision support system designed to assist neurologists in the early detection and classification of Alzheimer's Disease using deep learning and multi-model parallel analysis.
 
 ---
 
 ## 🚀 Executive Summary
-NeuroDetect Lab is an end-to-end industrial-grade platform that bridges the gap between advanced Deep Learning research and clinical practice. By leveraging a **Multi-Model Parallel Inference Engine**, the system provides high-reliability diagnostic suggestions based on MRI image analysis.
+MindCare AI is an end-to-end industrial-grade platform that bridges the gap between advanced Deep Learning research and clinical practice. By leveraging a **Multi-Model Parallel Inference Engine**, the system provides high-reliability diagnostic suggestions based on MRI image analysis.
 
 ### Core AI Philosophy: *Reliability-First Inference*
-Instead of relying on a single neural network, NeuroDetect Lab implements a **Weighted Reliability Score (WRS)**:
+Instead of relying on a single neural network, MindCare AI implements a **Weighted Reliability Score (WRS)**:
 $$RS = Confidence \times Benchmark\_Accuracy$$
 This approach mitigates the "overconfidence bias" of individual models, ensuring that the final verdict is guided by the most historically accurate and currently confident model.
 
@@ -83,8 +83,8 @@ This project was developed as an **Integrated Project**, demonstrating proficien
 - Deep Learning for Medical Imaging
 - System Architecture & Integration
 
-**Developed by: Abd-Elmouhib Souri**
-*Senior Data Science & AI Engineer Student*
+**Développé par : Abd-Elmouhib Souri**
+*Étudiant en 2ème année de cycle d'ingénieur en Data Science & AI*
 
 ---
 *Disclaimer: This tool is for educational and research purposes only. All clinical decisions must be made by qualified medical professionals.*
