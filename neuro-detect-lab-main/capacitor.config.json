@@ -1,0 +1,9 @@
+{
+  "appId": "com.neurodetectlab.app",
+  "appName": "NeuroDetect Lab",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
