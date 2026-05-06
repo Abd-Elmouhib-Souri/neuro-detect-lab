@@ -1,15 +1,15 @@
-# 🧠 MindCare AI - Alzheimer's Detection System
+# 🧠 DataScoop - Alzheimer's Detection System
 ### *Integrated Academic Project - Full-Stack & AI Multi-Model Platform*
 
-Welcome to **MindCare AI**, a state-of-the-art medical decision support system designed to assist neurologists in the early detection and classification of Alzheimer's Disease using deep learning and multi-model parallel analysis.
+Welcome to **DataScoop**, a state-of-the-art medical decision support system designed to assist neurologists in the early detection and classification of Alzheimer's Disease using deep learning and multi-model parallel analysis.
 
 ---
 
 ## 🚀 Executive Summary
-MindCare AI is an end-to-end industrial-grade platform that bridges the gap between advanced Deep Learning research and clinical practice. By leveraging a **Multi-Model Parallel Inference Engine**, the system provides high-reliability diagnostic suggestions based on MRI image analysis.
+DataScoop is an end-to-end industrial-grade platform that bridges the gap between advanced Deep Learning research and clinical practice. By leveraging a **Multi-Model Parallel Inference Engine**, the system provides high-reliability diagnostic suggestions based on MRI image analysis.
 
 ### Core AI Philosophy: *Reliability-First Inference*
-Instead of relying on a single neural network, MindCare AI implements a **Weighted Reliability Score (WRS)**:
+Instead of relying on a single neural network, DataScoop implements a **Weighted Reliability Score (WRS)**:
 $$RS = Confidence \times Benchmark\_Accuracy$$
 This approach mitigates the "overconfidence bias" of individual models, ensuring that the final verdict is guided by the most historically accurate and currently confident model.
 

@@ -1927,7 +1927,7 @@ const Reports = () => {
 <body>
   <div class="print-toolbar" style="display:flex;justify-content:space-between;align-items:flex-end;gap:16px;margin-bottom:24px;padding:22px 24px;border-radius:28px;background:linear-gradient(135deg,#0f172a 0%,#1d4ed8 100%);color:#ffffff;box-shadow:0 24px 50px rgba(29,78,216,0.22)">
     <div>
-      <div style="font-size:12px;letter-spacing:0.16em;text-transform:uppercase;opacity:0.7">MindCare AI</div>
+      <div style="font-size:12px;letter-spacing:0.16em;text-transform:uppercase;opacity:0.7">DataScoop</div>
       <h1 style="margin:6px 0 8px 0;font-size:34px">Rapport clinique IA</h1>
       <p style="margin:0;font-size:14px;opacity:0.9">Dr. ${escapeHtml(selectedDoctor?.username ?? "")} • ${escapeHtml(selectedDoctor?.email ?? "")}</p>
       <p style="margin:6px 0 0 0;font-size:13px;opacity:0.75">${patients.length} patient(s) • ${escapeHtml(now.toLocaleDateString("fr-FR"))}</p>
@@ -2693,7 +2693,7 @@ const Reports = () => {
 
       {/* Footer note */}
       <p className="text-xs text-muted-foreground text-center border-t border-border pt-4">
-        {repairMojibake(`MindCare AI — Rapports confidentiels à usage médical uniquement. Généré le ${new Date().toLocaleDateString("fr-FR")}.`)}
+        {repairMojibake(`DataScoop — Rapports confidentiels à usage médical uniquement. Généré le ${new Date().toLocaleDateString("fr-FR")}.`)}
       </p>
 
       {/* â”€â”€ Modal Zoom Image IRM â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ */}

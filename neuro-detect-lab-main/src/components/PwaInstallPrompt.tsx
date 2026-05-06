@@ -62,7 +62,7 @@ export default function PwaInstallPrompt() {
           <div className="min-w-0 flex-1">
             <p className="text-sm font-semibold text-slate-950">Installer l'application</p>
             <p className="mt-1 text-sm leading-6 text-slate-600">
-              Ajoute MindCare AI a l'ecran d'accueil pour une experience mobile plus fluide.
+              Ajoute DataScoop a l'ecran d'accueil pour une experience mobile plus fluide.
             </p>
           </div>
           <button
